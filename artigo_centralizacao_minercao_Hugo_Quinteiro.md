@@ -1,7 +1,6 @@
 # Equação para Mensuração de Centralização de Redes de Mineração de Criptomoedas
 
 **Autor:** Hugo Quinteiro  
-**Colaboração:** GPT-CIENTISTA  
 **Data:** Julho de 2025
 
 ---
