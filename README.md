@@ -4,7 +4,7 @@ Este repositório implementa uma equação original para estimar a centralizaç�
 
 ## ✍️ Autor
 **Hugo Quinteiro**  
-Colaboração: GPT-CIENTISTA (OpenAI)
+
 
 ## 📌 Objetivo
 Comparar redes como Bitcoin (SHA-256, ASIC) e Monero (RandomX, CPU) levando em conta:
